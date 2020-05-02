@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "fgb:fridge_block" }
+    }
+}

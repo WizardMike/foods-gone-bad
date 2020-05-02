@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SBS",
+        "BCB",
+        "SRS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:snow"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:iron_block"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:chest"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone_torch"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "fgb:fridge_block",
+        "count": 1
+    }
+}
