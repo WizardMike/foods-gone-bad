@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "fgb:items/moldy_hoe"
+   }
+}

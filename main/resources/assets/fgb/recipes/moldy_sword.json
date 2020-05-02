@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "M",
+        "M",
+        "S"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "M":
+        {
+            "item": "fgb:moldy_bread"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "fgb:moldy_sword",
+        "count": 1
+    }
+}

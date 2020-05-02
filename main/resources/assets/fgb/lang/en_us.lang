@@ -5,3 +5,10 @@ item.rotten_egg.name=Rotten Egg
 
 //Blocks
 tile.fridge_block.name=Fridge
+
+//Tools
+item.moldy_sword.name=Moldy Sword
+item.moldy_pickaxe.name=Moldy Pickaxe
+item.moldy_axe.name=Moldy Axe
+item.moldy_hoe.name=Moldy Hoe
+item.moldy_shovel.name=Moldy Shovel
