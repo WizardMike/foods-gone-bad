@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": 
+    [
+    
+    {
+     "item": "minecraft:dye","data":15
+    },
+    
+    {
+     "item": "minecraft:bread"
+    }
+    
+    ],
+    
+    "result": 
+    {
+        "item": "fgb:moldy_bread",
+        "count": 1
+    }
+}

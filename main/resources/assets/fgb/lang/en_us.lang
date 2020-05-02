@@ -1,0 +1,7 @@
+
+//Items
+item.moldy_bread.name=Moldy Bread
+item.rotten_egg.name=Rotten Egg
+
+//Blocks
+tile.fridge_block.name=Fridge
